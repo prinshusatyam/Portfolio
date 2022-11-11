@@ -1,0 +1,10 @@
+.head-style
+{
+    display: inline-flex;
+    align-items: center;
+    min-width: -webkit-fill-available;
+    background-color: burlywood;
+}
+.content-alignment{
+    margin-left: auto;
+}
