@@ -29,9 +29,7 @@
 }
 #heading-service{
     text-align: center;
-    padding: 5% 20%;
     font-size: 45px;
-    text-shadow: 5px 5px 10px black;
 }
 .web-service{
     padding: 4%;
@@ -56,6 +54,7 @@
 }
 .service-flex{
     display: flex;
+    gap: 35px;
     text-align-last: center;
     justify-content: center;
 }
