@@ -1,0 +1,208 @@
+.d-inline-flex
+{
+    display: flex;
+    align-items: center;
+    background-color: rgba(200,200,200,0.1);
+}
+.h1-head{
+    margin-inline: auto;
+    font-size: 60px;
+    font-family: inherit;
+}
+
+.align-nav{
+    margin: auto;
+}
+#idimage{
+    background-color: rgba(200,200,200,0.1);
+}
+.decor-underline{
+    text-decoration: none;
+    color: black;
+}
+
+#textfirst{
+    margin: 50px;
+}
+#service-content{
+    align-items: center;
+}
+#heading-service{
+    text-align: center;
+    padding: 5% 20%;
+    font-size: 45px;
+    text-shadow: 5px 5px 10px black;
+}
+.web-service{
+    padding: 4%;
+    height: 150px;
+    width: 150px;
+}
+.web-service:hover {
+    background-color: blue;
+    transition: 0.8s ease;
+    color: white;
+
+}
+.img-style-pos{
+    position: absolute;
+}
+.hide
+{
+    display: none;
+}
+.web-service:hover #show{
+    display: block;
+}
+.service-flex{
+    display: flex;
+    text-align-last: center;
+    justify-content: center;
+}
+#portfolio-head{
+    text-align: center;
+    padding: 4%;
+    font-size: 45px;
+    text-shadow: 5px 5px 10px black;
+}
+.serachbar-button{
+    margin-left: -37px;
+    margin-top: 8px;
+    position: absolute;
+    background-color: transparent;
+    border: none;
+}
+.img-style{
+    height: 350px;
+    width: 350px;
+    padding: 1%;
+}
+.img-line-flex{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+.image-flex{
+ gap: 30px;
+ flex-wrap: wrap;
+ justify-content: center;
+ padding: 4%;
+}
+.make-itawesome{
+    display: flex;
+    padding: 5%;
+}
+.bottom-hireme-button{
+    align-self: center;
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid;
+    border-color: blue;
+    border-radius: 20px;
+    color: blue;
+    background: transparent;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.bottom-hireme-button:hover{
+    color: #FFF;
+    background-color: blue;
+    transition: 0.5s ease;
+}
+.button-style{
+    padding: 10px 20px;
+    transition: 0s;
+    cursor: pointer;
+    align-self: center;
+    justify-content: center;
+    border: none;
+    background: none;
+    font-family: system-ui;
+    font-weight: bold;
+}
+.button-style:hover{
+    color: white;
+    border-radius: 20px;
+    border: 2px solid;
+    border-color: blue;
+    transition: 0s ease;
+    background-color: blue;
+
+}
+.bottom-serarch-button{
+    align-self: center;
+    padding: 10px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+}
+
+.bottom-button{
+    margin-left: 25%;
+    display: inline-flex;
+    padding: 5%;
+}
+
+.portfoloi-section{
+    background-color: rgba(200,200,200,0.1);
+}
+.feedback-section-image{
+    background-color: rgba(200,200,200,0.1);
+    text-align: center;
+    padding: 4%;
+}
+.feedback-section-image>img{
+    border-radius: 50%;
+}
+
+.img-style-social{
+    height: 50px;
+    width: 50px;
+}
+.img-style-social-twitter{
+    height: 60px;
+    width: 60px;
+}
+#copyright-footer{
+    text-align: center;
+}
+.line-service-within-box{
+    width: 25%;
+    color: blue;
+}
+.search-bar{
+    width: 200px;
+    text-align-last: justify;
+}
+.card .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.card:hover .img-top {
+    display: inline;
+}
+
+.card {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.centered {
+    margin: 49%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.h2-font-in-text{
+    font-family: monospace;
+}
+#font-size-para{
+    font-size: 45px;
+}
+#client-feedbackfont{
+    font-family: system-ui;
+}
